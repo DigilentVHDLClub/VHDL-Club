@@ -1,0 +1,9 @@
+[submodule "hw"]
+	path = hw
+	url = ../VHDL-Club-HW.git
+[submodule "sw"]
+	path = sw
+	url = ../VHDL-Club-SW.git
+[submodule "os"]
+	path = os
+	url = ../VHDL-Club-OS.git
